@@ -14,6 +14,8 @@ In this project, a dataset consisting information from 100k medical appointments
 2. Is there a correlation between type of disease and attendance of patient for the appointment?
 3. Which age group has secured most scholarships and does it affect the attendance at appointment?
 
+![Appointments-Image](appointments_image.jpg)
+
 # Prerequisites
 1. Pandas (for data loading and analysis)
 2. NumPy (for computing)
